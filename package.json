@@ -1,0 +1,23 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "노드를 이용한 웹크롤링",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InSeok9068/node-scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InSeok9068/node-scraping/issues"
+  },
+  "homepage": "https://github.com/InSeok9068/node-scraping#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.4",
+    "request": "^2.88.0"
+  }
+}
